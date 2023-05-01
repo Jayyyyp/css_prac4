@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(17, 17, 98);
+    padding: 20px;
+}
+h1{
+    color: rgb(191, 191, 87);
+}
+span style{
+    color: white;
+}
+em{
+    color: rgb(192, 191, 191);
+}
+main{
+    background-color: aliceblue;
+    width: 500px;
+}
+.side-banner{
+    float: left;
+    width: 40px;
+}
+h2{
+    background-color: brown;
+    color: yellow;
+    padding: 10px;
+}
+p{
+    padding: 20px;
+}
+footer{
+    background-color: rgb(162, 155, 144);
+}
